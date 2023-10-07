@@ -1,3 +1,4 @@
 Flask
-cv2
+opencv-python
 flash
+werkzeug
